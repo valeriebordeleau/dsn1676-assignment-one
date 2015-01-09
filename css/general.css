@@ -17,6 +17,25 @@ html {
   box-sizing: inherit;
 }
 
-review {
-    font-family: 'Abril Fatface', cursive;
+body {
+    background-color: #E7E5D9;
 }
+
+.title {
+	display: inline-block;
+    background-color: #E7E5D9;
+    text-shadow: 3px 3px 0 grey;
+}
+
+.masthead {
+	background: transparent url("../artwork/masthead_tile.png") repeat left center;
+	text-align: center;
+}
+
+
+.logo {
+	margin: 0 0.2em 0 0;
+	width: 1.2em;
+	vertical-align: middle;
+}
+
