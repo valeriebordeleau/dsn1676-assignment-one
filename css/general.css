@@ -27,11 +27,29 @@ body {
     text-shadow: 3px 3px 0 grey;
 }
 
+.mugshot {
+}
+
+.border {
+	border-image: url("../artwork/boarder.png") 29 29 29 29 stretch stretch;
+	border-width: 29px 29px 29px 29px;
+}
+
 .masthead {
 	background: transparent url("../artwork/masthead_tile.png") repeat left center;
 	text-align: center;
 }
 
+.brown {
+    background-color: #87714F;
+}
+
+.logo2 {
+	margin: 0 0.2em 0 0;
+	width: 3em;
+	vertical-align: middle;
+    align-content: middle;
+}
 
 .logo {
 	margin: 0 0.2em 0 0;
@@ -39,9 +57,3 @@ body {
 	vertical-align: middle;
 }
 
-.logo2 {
-	margin: 0 0.2em 0 0;
-	width: 5em;
-	vertical-align: middle;
-    align-content: center;
-}
