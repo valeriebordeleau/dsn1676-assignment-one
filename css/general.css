@@ -30,6 +30,11 @@ body {
 .mugshot {
 }
 
+.img-flex {
+	display: block;
+	width: 100%;
+}
+
 .border {
 	border-image: url("../artwork/boarder.png") 29 29 29 29 stretch stretch;
 	border-width: 29px 29px 29px 29px;
