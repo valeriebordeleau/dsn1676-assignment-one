@@ -27,8 +27,6 @@ body {
     text-shadow: 3px 3px 0 grey;
 }
 
-.mugshot {
-}
 
 .img-flex {
 	display: block;
@@ -53,7 +51,6 @@ body {
 	margin: 0 0.2em 0 0;
 	width: 3em;
 	vertical-align: middle;
-    align-content: middle;
 }
 
 .logo {
