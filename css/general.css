@@ -47,6 +47,13 @@ body {
     background-color: #87714F;
 }
 
+.bk {
+    background-image: url(../artwork/hat.svg), url(../artwork/cuffs.svg);
+    background-position: top, bottom;
+    background-repeat: no-repeat;
+    background-size: 80px, 60px;
+}
+
 .logo2 {
 	margin: 0 0.2em 0 0;
 	width: 3em;
